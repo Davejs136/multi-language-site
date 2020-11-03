@@ -1,0 +1,15 @@
+{
+  "static": {
+    "lang": "es"
+  },
+  "principal": {
+    "content": {
+      "principal": {
+        "titulo": "Tenga sus impuestos y obligaciones tributarias al día",
+        "descripcion": "Somos un equipo de profesionales dedicados al cálculo de impuestos y al cumplimiento de obligaciones fiscales. Ten al día  tus tributos sin preocuparte de los trámites que de eso nos encargamos nosotros"
+      },
+      "cta_titulo": "Conócenos",
+      "cta_vinculo": "Vínculo"
+    }
+  }
+}

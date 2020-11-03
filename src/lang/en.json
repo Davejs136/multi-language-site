@@ -1,0 +1,15 @@
+{
+  "static": {
+    "lang": "en"
+  },
+  "principal": {
+    "content": {
+      "principal": {
+        "titulo": "All your taxes and tax compliance up to date!",
+        "descripcion": "We are a professional team dedicated to calculating taxes and tax compliance. Keep all of your taxes updated without worrying about any procedures, we will take care of it."
+      },
+      "cta_titulo": "Learn more",
+      "cta_vinculo": "Link"
+    }
+  }
+}

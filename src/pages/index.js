@@ -1,5 +1,5 @@
 import React from "react"
-import { useIntl } from "../../plugins/gatsby-plugin-intl-graphql"
+import { useIntl } from "gatsby-plugin-intl-graphql"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
